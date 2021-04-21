@@ -1,7 +1,7 @@
-# projeto_NLW-05
+# projeto_NLW-05 🚀
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 
-Esse Repositório tem apenas como objetivo guardar os conhecimentos aprendidos na trilha NLW com foco em node oferecido pela rocketseat 🚀
+Esse Repositório tem apenas como objetivo guardar os conhecimentos aprendidos na trilha NLW com foco em node.js oferecido pela rocketseat.
 
 ### Ajustes e melhorias 📚
 
